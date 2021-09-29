@@ -8,7 +8,7 @@
 1. Upstream Task - Telco biz. Embedding 모델 구축
    1) 말뭉치 수집
       - SOP, SOR, JIRA 요청서 수집 (문서 단위 약 547,197건)
-        * 문서 : 여러 개의 문장으로 이루어진 글
+        문서 : 여러 개의 문장으로 이루어진 글
       - 약 2년치 데이터 (2019년 1월 말 ~ 2021년 6월)
       - sop_merged.xlsx, sor.xlsx, jira_xlsx
    2) Raw 데이터 정제 
