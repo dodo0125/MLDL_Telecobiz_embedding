@@ -4,6 +4,9 @@
   1. Upstream Task - Telco biz. Embedding 모델 구축
   2. Downstream Task - Embedding을 활용한 SOP Classifier 모델 구축
 
+
+
+
 [ 상세 설명 ]
 1. Upstream Task - Telco biz. Embedding 모델 구축
    1) 말뭉치 수집
@@ -20,6 +23,8 @@
       a. 형태소 분리 API 활용하여 정제한 말뭉치에 형태소 분리 적용 (Mecab 활용)
    4) Embedding 적용
       a. Word2Vec / FastText Model을 활용하여 각 Embedding 모델 생성
+
+
 
 2. Downstream Task - Embedding을 활용한 SOP Classifier 모델 구축 
    1) 분류 대상 데이터 수집
